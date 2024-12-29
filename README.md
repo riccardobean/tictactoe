@@ -3,8 +3,8 @@
 
 # How to download the latest release
 1. [Download the file **(Windows only)**.](https://github.com/riccardobean/tictactoe/releases/download/win3.1/setup.exe)
-2. Extract the zip file.
-3. Run Tic Tac Toe.exe and the program should run.
+2. Run setup.exe and follow the instructions.
+3. If the setup concludes correctly, the program should run automatically.
 4. If the program does not run see below.
 
 # License
