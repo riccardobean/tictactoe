@@ -1,0 +1,7 @@
+Thank you for playing Tic Tac Toe! 
+
+We hope you are enjoying the game. 
+
+However, we know that errors can happen. 
+
+If you find a bug, please report it, using the following link: https://bit.ly/3O72Rpa
