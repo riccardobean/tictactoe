@@ -5,7 +5,7 @@
 1. [Download the file **(Windows only)**.](https://github.com/riccardobean/tictactoe/releases/download/win3.1/setup.exe)
 2. Run setup.exe and follow the instructions.
 3. If the setup concludes correctly, the program should run automatically.
-4. If the program does not run see below.
+4. If the program does not run see [Troubleshooting](#Troubleshooting).
 
 # License
 **License: Copyright © 2024 Riccardo Bean. All Rights Reserved.**
