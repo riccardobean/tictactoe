@@ -22,6 +22,7 @@ There are three game modes:
 - Multiplayer
 - Easy AI
 - Impossible AI
+
 *Note: there is no use of AI in this project. The solution is hard-coded, but saying "AI" looked better nowadays!*
 
 ### Easy AI 
